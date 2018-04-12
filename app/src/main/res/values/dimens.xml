@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="view_margin">5dp</dimen>
+    <dimen name="max_width">480dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="sub_title_text_size">18sp</dimen>
+
+    <!--share-->
+    <dimen name="share_top_panel_height">72dp</dimen>
+    <dimen name="share_top_panel_title_margin_left">12dp</dimen>
+    <dimen name="share_top_panel_title_text_size">18sp</dimen>
+    <dimen name="share_top_panel_select_text_size">18sp</dimen>
+    <dimen name="share_top_panel_cancel_icon_width">24dp</dimen>
+    <dimen name="share_top_panel_cancel_icon_height">24dp</dimen>
+    <dimen name="share_top_panel_cancel_icon_margin_left">12dp</dimen>
+    <dimen name="share_top_panel_status_bar_height">20dp</dimen>
+    <dimen name="share_top_panel_tool_bar_height">52dp</dimen>
+
+    <dimen name="share_sub_panel_height">56dp</dimen>
+    <dimen name="share_sub_panel_title_text_size">18sp</dimen>
+    <dimen name="share_sub_panel_divider_height">1px</dimen>
+
+    <dimen name="share_recycler_padding_bottom">68dp</dimen>
+
+    <dimen name="share_share_button_height">60dp</dimen>
+    <dimen name="share_share_button_elevation">2dp</dimen>
+    <dimen name="share_share_icon_width">24dp</dimen>
+    <dimen name="share_share_icon_height">24dp</dimen>
+    <dimen name="share_share_icon_margin_top">11dp</dimen>
+    <dimen name="share_share_text_margin_top">37dp</dimen>
+    <dimen name="share_share_text_size">8sp</dimen>
+
+    <!--title-->
+    <dimen name="title_margin_left">16dp</dimen>
+    <dimen name="title_margin_right">16dp</dimen>
+    <dimen name="title_margin_top">16dp</dimen>
+    <dimen name="title_margin_bottom">9dp</dimen>
+    <dimen name="title_app_name_text_size">16sp</dimen>
+    <dimen name="title_date_text_size">12sp</dimen>
+
+    <dimen name="title_app_name_text_margin_left">10dp</dimen>
+    <dimen name="title_icon_height">24dp</dimen>
+    <dimen name="title_icon_width">24dp</dimen>
+
+    <!--list-->
+    <dimen name="list_height">51dp</dimen>
+
+    <dimen name="list_divider_top_height">1px</dimen>
+    <dimen name="list_divider_bottom_height">1px</dimen>
+    <dimen name="list_divider_bottom_margin_left">16dp</dimen>
+    <dimen name="list_divider_bottom_margin_right">16dp</dimen>
+
+    <dimen name="list_thumbnail_margin_left">44dp</dimen>
+    <dimen name="list_thumbnail_margin_top">1px</dimen>
+
+    <dimen name="list_file_name_margin_left">6dp</dimen>
+    <dimen name="list_file_name_margin_top">8dp</dimen>
+    <dimen name="list_file_name_margin_right">38dp</dimen>
+    <dimen name="list_file_name_text_size">14sp</dimen>
+
+    <dimen name="list_file_size_margin_top">26dp</dimen>
+    <dimen name="list_file_size_margin_left">6dp</dimen>
+    <dimen name="list_file_size_text_size">10sp</dimen>
+
+    <dimen name="list_multi_select_status_icon_width">24dp</dimen>
+    <dimen name="list_multi_select_status_icon_height">24dp</dimen>
+    <dimen name="list_multi_select_status_icon_margin_right">14dp</dimen>
+
+    <!--grid-->
+</resources>

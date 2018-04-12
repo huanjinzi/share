@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#44FF4081</color>
+    <color name="mask">#663f51ff</color>
+    <color name="write">#FF4081</color>
+    <color name="title_light">#414141</color>
+    <color name="title_dark">#ffffff</color>
+    <color name="background">#00000000</color>
+    <color name="white">#ffffff</color>
+
+
+    <color name="primary_material_light" tools:override="true">#fff5f5f5</color>
+    <color name="primary_dark_material_light" tools:override="true">#ff757575</color>
+    <color name="accent_material_light" tools:override="true">#ff009688</color>
+    <color name="gray_translucent" tools:override="true">#14383838</color>
+
+    <!--share-->
+    <color name="share_top_panel_background_color">#2979ff</color>
+    <color name="share_top_panel_title_text_color">#ffffff</color>
+    <color name="share_top_panel_select_text_color">#ffffff</color>
+
+    <color name="share_sub_panel_divider_color">#e5e5e5</color>
+    <color name="share_sub_panel_title_text_color">#2979ff</color>
+
+    <color name="share_share_text_color">#343434</color>
+    <color name="share_share_button_background_color">#fafafa</color>
+
+    <color name="share_background_color">#b4000000</color>
+
+    <!--title-->
+    <color name="title_app_name_text_color">#343434</color>
+    <color name="title_date_text_color">#8d8d8d</color>
+
+    <!--listItemlist-->
+    <color name="list_divider_top_color">#e5e5e5</color>
+    <color name="list_divider_bottom_color">#e5e5e5</color>
+    <color name="list_select_mask_color">#663f51ff</color>
+    <color name="list_file_name_text_color">#343434</color>
+    <color name="list_file_size_text_color">#343434</color>
+
+    <color name="divider">#ededed</color>
+    <color name="list_divider">#e5e5e5</color>
+</resources>

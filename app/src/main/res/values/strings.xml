@@ -1,0 +1,13 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ShareKey</string>
+    <string name="denied_required_permission">Permissions denied. You can change them in Settings &gt; Apps.</string>
+
+    <!--share-->
+    <string name="share_top_panel_title_text">Spice Share</string>
+    <string name="share_top_panel_select_text"><xliff:g>%1$d</xliff:g> Selected</string>
+    <string name="share_top_panel_cancel_icon_description">this will cancel multi selection</string>
+    <string name="share_sub_panel_title_text">Spice Share</string>
+    <string name="share_share_text">Spice Share</string>
+    <string name="share_share_icon_description">this will share the selected files</string>
+
+</resources>

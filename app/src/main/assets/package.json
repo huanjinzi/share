@@ -1,0 +1,44 @@
+[
+  {
+    "packageName":"com.tencent.mm",
+    "paths":[
+      {"name":"/tencent/MicroMsg"},
+      {"name":"/tencent/MicroMsg/WeiXin"},
+      {"name":"/tencent/MicroMsg/WeChat"}
+    ]
+  },
+  {
+    "packageName":"com.tencent.qqmusic",
+    "paths":[
+      {"name":"/qqmusic/song/"}
+    ]
+  },
+  {
+    "packageName":"com.netease.cloudmusic",
+    "paths":[
+      {"name":"/netease/cloudmusic/Music/"},
+      {"name":"/netease/cloudmusic/网易云音乐相册/"}
+    ]
+  },
+  {
+    "packageName":"com.tencent.androidqqmail",
+    "paths":[
+      {"name":"/Download/QQMail"}
+    ]
+  },
+  {
+    "packageName":"com.android.soundrecorder",
+    "paths":[
+      {"name":"/Recorder/Sound Recorder/"}
+    ]
+  },
+  {
+    "packageName":"com.whatsapp",
+    "paths":[
+      {"name":"WhatsApp/Media/WhatsApp Images/"},
+      {"name":"WhatsApp/Media/WhatsApp Audio/"},
+      {"name":"/WhatsApp/Media/WhatsApp Documents/"},
+      {"name":"WhatsApp/Media/WhatsApp Video/"}
+    ]
+  }
+]
